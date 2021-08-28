@@ -15,6 +15,7 @@
 		8441F4E5267505F700BC1D6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8441F4E3267505F700BC1D6F /* LaunchScreen.storyboard */; };
 		8441F4F12675088E00BC1D6F /* LocalNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8441F4F02675088E00BC1D6F /* LocalNotificationManager.swift */; };
 		8441F4F326750A7700BC1D6F /* UIAlertController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8441F4F226750A7700BC1D6F /* UIAlertController+Extension.swift */; };
+		8441F4F526750D4700BC1D6F /* UITextField+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8441F4F426750D4700BC1D6F /* UITextField+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8441F4E6267505F700BC1D6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8441F4F02675088E00BC1D6F /* LocalNotificationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalNotificationManager.swift; sourceTree = "<group>"; };
 		8441F4F226750A7700BC1D6F /* UIAlertController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Extension.swift"; sourceTree = "<group>"; };
+		8441F4F426750D4700BC1D6F /* UITextField+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				8441F4E1267505F700BC1D6F /* Assets.xcassets */,
 				8441F4E3267505F700BC1D6F /* LaunchScreen.storyboard */,
 				8441F4E6267505F700BC1D6F /* Info.plist */,
+				8441F4F426750D4700BC1D6F /* UITextField+Extension.swift */,
 			);
 			path = Global;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				8441F4DD267505F600BC1D6F /* ViewController.swift in Sources */,
 				8441F4F326750A7700BC1D6F /* UIAlertController+Extension.swift in Sources */,
 				8441F4D9267505F600BC1D6F /* AppDelegate.swift in Sources */,
+				8441F4F526750D4700BC1D6F /* UITextField+Extension.swift in Sources */,
 				8441F4F12675088E00BC1D6F /* LocalNotificationManager.swift in Sources */,
 				8441F4DB267505F600BC1D6F /* SceneDelegate.swift in Sources */,
 			);
